@@ -1,0 +1,17 @@
+﻿■VirtualCaptionCamの使い方
+
+(1) VirtualCaptionCamを起動する
+(2) ビデオ会議ツール（Zoomなど）を起動する
+(3) ビデオ会議ツールのカメラとして「Virtual Caption Camera」を選ぶ
+
+おまけ：タイトルバーは「F1」キーを押すたびに表示／非表示が切り替わるよ！
+
+---------- ---------- ---------- ---------- ---------- ----------
+
+* Usage of VirtualCaptionCam
+
+(1) Launch VirtualCaptionCam
+(2) Launch video conference app (Zoom, etc.)
+(3) In video conference app, choose "Virtual Caption Camera" as your camera
+
+P.S. To hide the title bar, press [F1] key! (to reappear the title bar, press F1 key again)

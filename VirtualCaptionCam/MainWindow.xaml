@@ -1,0 +1,17 @@
+﻿<Window x:Class="VirtualCaptionCam.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VirtualCaptionCam"
+        xmlns:wv2="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf"
+        mc:Ignorable="d"
+        Title="[VirtualCaptionCam]" Height="675" Width="1200" WindowState="Maximized"
+        Background="black"
+        Loaded="MainWindow_Loaded"
+        PreviewKeyUp="MainWindow_PreviewKeyUp"
+        Closed="MainWindow_Closed">
+    <DockPanel>
+        <wv2:WebView2 Name="webView" />
+    </DockPanel>
+</Window>
